@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/uezima/mdk-display/mdkdisplay-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/uezima/mdk-display/mdkdisplay-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_1f5307a120993c3bee72e1efcfc92b70f847ef8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/uezima/mdk-display/mdkdisplay-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/home/uezima/mdk-display/mdkdisplay-master/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.1.0_a99fc6a051fc9853ea222a819f5e28b4fdb08dc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/uezima/mdk-display/mdkdisplay-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/uezima/mdk-display/mdkdisplay-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_70b92e5c8d5736fd053b4f9ffc0cffb6ec16f54e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/uezima/mdk-display/mdkdisplay-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/uezima/mdk-display/mdkdisplay-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_88a3a36bbde595328b63cf1cba1f0e7242902330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/uezima/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/uezima/mdk-display/mdkdisplay-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_1fb081a5f7304704d2895fec0311e0266fd57102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/uezima/mdk-display/mdkdisplay-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/uezima/mdk-display/mdkdisplay-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_2288b4f8994272e50eaef1d146e8d6cffa58e96b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/uezima/mdk-display/mdkdisplay-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/uezima/mdk-display/mdkdisplay-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_55771b712740c1517272b3a894093dab325608e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/uezima/mdk-display/mdkdisplay-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/uezima/mdk-display/mdkdisplay-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_b1193367baddcc35c17ede9c71385d8cfdf73be7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/uezima/mdk-display/mdkdisplay-master/app/libs/modlib-01.00.000.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1905855d51224d98395146ed3b47539bfd2ea81">
+        <dex dex="/home/uezima/mdk-display/mdkdisplay-master/app/build/intermediates/pre-dexed/debug/modlib-01.00.000_42f0d734c83145ef24c0b6246a32229e81c7db9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/uezima/mdk-display/mdkdisplay-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/uezima/mdk-display/mdkdisplay-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_e73de063b119d00abe655984a7bd63565214c64a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/uezima/mdk-display/mdkdisplay-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/uezima/mdk-display/mdkdisplay-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_77fb19371782868f2bdef2ff5ecee223ba140dba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/uezima/mdk-display/mdkdisplay-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/uezima/mdk-display/mdkdisplay-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_39936d5f119c77eed2797cdc17f9e3648b2895fe.jar" />
+    </item>
+
+</items>
